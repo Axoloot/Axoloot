@@ -18,10 +18,11 @@ Available for a permanent role. Based in Paris, open to relocation in France or 
 
 | | |
 |---|---|
-| **Build** | TypeScript, Python, Node.js, Hono, React, Next.js, React Native |
-| **Host** | AWS, Terraform, AWS CDK, Docker, Kubernetes, GitLab CI, GitHub Actions |
-| **Run** | Linux & Bash, CloudWatch, Datadog, Prometheus, Grafana |
-| **Secure** | IPsec, DNS, bug bounty (YesWeHack), Burp Suite, Caido |
+| **Automate** | Python, TypeScript, Node.js, AWS Lambda & EventBridge |
+| **Host and run** | AWS, Terraform, Docker, Kubernetes, GitLab CI, Linux |
+| **Build** | React, Next.js |
+
+The full stack, and where I used each tool, is on [cyrildelajudie.fr](https://cyrildelajudie.fr/en#skills).
 
 ## Projects
 
@@ -31,4 +32,4 @@ Available for a permanent role. Based in Paris, open to relocation in France or 
 
 ## Contact
 
-[cyril_de_lajudie@hotmail.fr](mailto:cyril_de_lajudie@hotmail.fr)
+[contact@cyrildelajudie.fr](mailto:contact@cyrildelajudie.fr)
